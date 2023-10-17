@@ -6,9 +6,13 @@
 
 ---
 
-# This program strictly only works in Linux.
+# This program strictly works on an operating system with Linux kernel.
 
 ---
+
+### Requirements for building
+- An operating system with Linux kernel.
+- tcc
 
 ## Build
 - sh _build.sh
